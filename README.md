@@ -1,3 +1,5 @@
+[[en](README.md)][[id](README-ID.md)]
+
 # Welcome
 
 This repo contains all links to all my demo applications. Everything single data inside the application is dummy data for demo purposes. I'll list all the applications below included the instruction to access it.
