@@ -10,6 +10,12 @@ This repo contains all links to all my demo applications. Everything single data
 (http://virtuallab.lebahdev.my.id)
 
 As the name said, it is a virtual lab that can be accessed by students and teachers to run lab activities.
+Login to [admin panel](http://virtuallab.lebahdev.my.id/nova) with credentials :
+```
+email     : admin@admin.test
+password  : admin
+```
+Access student page by login with one of student emails that can be found on admin panel.
 
 
 ## SIMGEPREK
@@ -46,3 +52,11 @@ Micro Selling is an application for managing business credit items such as smart
 
 SIBK is an application for recording student violations. There is a chat feature to interact between teacher to student and teacher to parent.
 
+Login with admin creadentials :
+
+```
+username : admin
+password : admin
+```
+
+Then try login with other role credential that can be found on admin `Master Data` with default password is `password` or create a new one.
